@@ -1,3 +1,26 @@
-# math-research-agent
-面向数学科研的 AI Agent 工作流
-Math Research Agent is an AI-native workflow for mathematical research, academic visualization, LaTeX generation and presentation automation.
+# Math Research Agent
+
+An AI-native workflow for mathematical research, 
+academic visualization and presentation generation.
+
+## Features
+
+- Multi-Agent Workflow
+- Chain-of-Thought Reasoning
+- Academic Diagram Generation
+- LaTeX Rendering
+- PPT Generation
+- Mathematical Visualization
+
+## Workflow
+
+Paper Input
+→ Document Parsing Agent
+→ Reasoning Agent
+→ Visualization Agent
+→ PPT / LaTeX Generation
+→ Verification Agent
+
+## Demo
+
+https://yongxiazhu-shu.github.io/math-research-agent/
